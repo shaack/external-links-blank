@@ -1,0 +1,26 @@
+{
+  "name": "external-links-blank",
+  "version": "1.0.0",
+  "description": "Open all external links in your webpage as target=\"_blank\"",
+  "main": "src/external-links-blank.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaack/external-links-blank.git"
+  },
+  "keywords": [
+    "js",
+    "tool",
+    "link",
+    "links",
+    "html"
+  ],
+  "author": "Stefan Haack (shaack.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaack/external-links-blank/issues"
+  },
+  "homepage": "https://github.com/shaack/external-links-blank#readme"
+}
