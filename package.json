@@ -1,6 +1,6 @@
 {
   "name": "external-links-blank",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Open all external links in your webpage as target=\"_blank\"",
   "main": "src/external-links-blank.js",
   "scripts": {
